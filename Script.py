@@ -213,12 +213,15 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-🅈🄴🅂🅂🄰🄼🄼🄰🔞 - t.me/+YNvnIc1D1StkOTlk
-  𝙽𝙰𝚅𝙰𝚁𝙰𝚂𝙰 🔞 - t.me/+x9pRRUTMhBw2MWFk
-  kααmαrααní 🔞 - t.me/+qEnMuUz_kR1mNGVk
+🅈🄴🅂🅂🄰🄼🄼🄰🔞
+t.me/+YNvnIc1D1StkOTlk
+𝙽𝙰𝚅𝙰𝚁𝙰𝚂𝙰 🔞
+t.me/+x9pRRUTMhBw2MWFk
+kααmαrααní 🔞
+t.me/+qEnMuUz_kR1mNGVk
 
-          @filims_18
-=========== • ✠ • ===========</b>"""
+      @filims_18
+======== • ✠ • ========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
