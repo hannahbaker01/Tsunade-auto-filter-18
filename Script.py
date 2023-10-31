@@ -7,20 +7,20 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 ᴄʟɪᴄᴋ /more ᴛᴏ ꜱᴇᴇ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ.</b>"""
 
     ABOUT_TXT = """<b>🌝Mʏ Nᴀᴍᴇ🌝: {}
-📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/filims_18'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
+📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/filims_18'>filims_18</a>
 😎Lɪʙʀᴀʀʏ😎: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🌟Lᴀɴɢᴜᴀɢᴇ🌟: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ___________👨‍💻ᴄʀᴇᴅɪᴛꜱ👨‍💻___________
-<a href='https://t.me/filims_18'>filims_18𝗚 🕊️⃝🦋</a></b>
+<a href='https://t.me/filims_18'>filims_18𝗚 🕊️⃝🦋</a></b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
 - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/filims_18">ʜᴇʀᴇ</a>
 - ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @filims_18
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/filims_18">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
+- <a href="https://t.me/filims_18">filims_18</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
