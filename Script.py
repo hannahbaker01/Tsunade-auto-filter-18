@@ -7,21 +7,20 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 ᴄʟɪᴄᴋ /more ᴛᴏ ꜱᴇᴇ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ.</b>"""
 
     ABOUT_TXT = """<b>🌝Mʏ Nᴀᴍᴇ🌝: {}
-📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/KOMBOTZZ'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
+📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/filims_18'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
 😎Lɪʙʀᴀʀʏ😎: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🌟Lᴀɴɢᴜᴀɢᴇ🌟: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ___________👨‍💻ᴄʀᴇᴅɪᴛꜱ👨‍💻___________
-<a href='https://t.me/Master_broi'>𓄂℡𝗠𝞓𝗦᳅𝜩𝗥 ᠰ 𝙏𝗚 🕊️⃝🦋</a></b>
-<a href='https://github.com/CyberTG'>CyberTG</a></b>"""
+<a href='https://t.me/filims_18'>filims_18𝗚 🕊️⃝🦋</a></b>
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
-- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @KOM_LINKS
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/filims_18">ʜᴇʀᴇ</a>
+- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @filims_18
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/LUTTAPPIxTG">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
+- <a href="https://t.me/filims_18">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -42,7 +41,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/KOMBOTZZ)</code>
+<code>[Button Text](buttonurl:https://t.me/filims_18)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -166,8 +165,8 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷
-• ᴜꜱᴇʀɴᴀᴍᴇ : @LUTTAPPIxTG 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LUTTAPPIxtg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ :  @filims_18
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/filims_18'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -214,13 +213,11 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
+🅈🄴🅂🅂🄰🄼🄼🄰🔞 - t.me/+YNvnIc1D1StkOTlk
+  𝙽𝙰𝚅𝙰𝚁𝙰𝚂𝙰 🔞 - t.me/+x9pRRUTMhBw2MWFk
+  kααmαrααní 🔞 - t.me/+qEnMuUz_kR1mNGVk
 
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @KOMOFFICIAL 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @KOMBOTZZ 
+          @filims_18
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -381,9 +378,9 @@ Group Support
     
 <b>❁🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят❁</b>
 <b>✯𝙅𝙊𝙄𝙉 :-⇊</b>
-<b>https://t.me/KOM_LINKS</b>
+<b>https://t.me/filims_18</b>
 <b>✯𝙅𝙊𝙄𝙉 :-⇊</b>
-<b>https://t.me/KOMBOTZZ</b>
+<b>https://t.me/filims_18</b>
 <b>❁🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят❁</b>
 """
     
